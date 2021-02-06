@@ -46,4 +46,7 @@ class UsersController < ApplicationController
   def login_page
   end
   
+  def login
+  end
+  
 end
